@@ -17,6 +17,8 @@ See [Intro Videos](https://kingtoolbox.github.io)
 
 **Linux binary**, **MacOS binary** and **Windows binary**: https://github.com/kingToolbox/WindTerm/releases
 
+comboBoxItem.IsSelected = true;
+
 # Source Code
 
 WindTerm is a **partial** open source project, and the source will be gradually opened.
